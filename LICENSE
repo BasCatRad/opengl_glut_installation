@@ -1,6 +1,61 @@
+Third-Party Software Notices and Licenses
+==========================================
+
+This project template incorporates components from third parties and also contains
+original code by the template author. The licenses for each component are listed below.
+
+--------------------------------------------------------------------
+
+1. Freeglut Library
+-------------------
+
+This software uses the Freeglut library. The full license text is reproduced below:
+
+Copyright (c) 1999-2000 Pawel W. Olszta. All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+PAWEL W. OLSZTA BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Except as contained in this notice, the name of Pawel W. Olszta shall not be
+used in advertising or otherwise to promote the sale, use or other dealings
+in this Software without prior written authorization from Pawel W. Olszta.
+
+--------------------------------------------------------------------
+
+2. Project Icon
+---------------
+
+The icon used in this project template is provided by POD Gladiator / https://www.flaticon.com/authors/pod-gladiator
+Source: https://www.flaticon.com/free-icon/graphic-design_9529941?term=computer+graphics&page=1&position=11&origin=search&related_id=9529941
+
+According to the terms of use, this icon is free to use provided that the author
+is credited. This notice serves as that credit.
+
+--------------------------------------------------------------------
+
+3. Original Template Code by Artsiom A. Letski 
+---------------------------------------------------
+
+The original code, project structure, and template files created by Artsiom A. Letski
+of this Visual Studio template are provided under the MIT License:
+
 MIT License
 
-Copyright (c) 2026 BasCatRad
+Copyright (c) 2026 Artsiom A. Letski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
